@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
-
-1. ![1  cd - Berpindah direktori(https://github.com/user-attachments/assets/3d41d294-b874-4acd-95a2-f19540cbef36)
+![1  cd - Berpindah direktori](https://github.com/user-attachments/assets/8a7bbf3f-5175-468e-aa1d-d1639d59655c)
+1. cd - Berpindah direktori.
 
