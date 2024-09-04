@@ -1,6 +1,6 @@
-1. cd - Berpindah direktori.
+cd - Berpindah direktori.
 ![1  cd - Berpindah direktori](https://github.com/user-attachments/assets/f023356a-ea39-4d11-bc8d-824541cd32ca)
-- Menampilkan daftar file dan direktori.
+Menampilkan daftar file dan direktori.
 ![Gambar WhatsApp 2024-09-04 pukul 22 08 46_47df10e9](https://github.com/user-attachments/assets/20d1e658-bf75-4eeb-811f-5319cfb03475)
 mkdir - Membuat direktori baru.
 ![Gambar WhatsApp 2024-09-04 pukul 22 09 15_c389a0b6](https://github.com/user-attachments/assets/efca92b0-17f4-43bf-9d79-d4c1433724a2)
@@ -90,13 +90,13 @@ ssh - Mengakses server remote melalui SSH
 ![Gambar WhatsApp 2024-09-04 pukul 22 38 58_6c3fec97](https://github.com/user-attachments/assets/810366c4-bbd0-4cb5-ba5b-5402c2fa71a4)
 more - Menampilkan isi file dengan lebih sedikit kontrol.
 ![Gambar WhatsApp 2024-09-04 pukul 22 39 16_f54e8e3f](https://github.com/user-attachments/assets/4fa86d93-3cc9-4d80-bff6-0df90bf94dc4)
-- Menampilkan 10 baris pertama dari file.
+Menampilkan 10 baris pertama dari file.
 ![Gambar WhatsApp 2024-09-04 pukul 22 39 40_55a807a2](https://github.com/user-attachments/assets/9ecd1eb7-e3b2-4ce0-8306-b29e0afc70d1)
 Menampilkan 10 baris terakhir dari file.
 ![Gambar WhatsApp 2024-09-04 pukul 22 39 54_c6c2f3f8](https://github.com/user-attachments/assets/680d72fb-abbb-4509-822c-a1a0c2ca8791)
 Mengirim permintaan HTTP dan menampilkan output.
 ![Gambar WhatsApp 2024-09-04 pukul 22 40 14_ed0fa1e0](https://github.com/user-attachments/assets/a9ba4476-98a1-4fa5-9496-ed95b978713f)
-- Menampilkan status jaringan dan port yang dibuka.
+Menampilkan status jaringan dan port yang dibuka.
 ![Gambar WhatsApp 2024-09-04 pukul 22 40 30_8916745f](https://github.com/user-attachments/assets/cb5b08f8-96bc-4e96-a787-2a3d701eb564)
 
 
