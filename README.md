@@ -8,36 +8,36 @@ Menampilkan daftar file dan direktori.
 
 mkdir - Membuat direktori baru.
 
-![Gambar WhatsApp 2024-09-04 pukul 22 09 15_c389a0b6](https://github.com/user-attachments/assets/efca92b0-17f4-43bf-9d79-d4c1433724a2)
+![Gambar WhatsApp 2024-09-04 pukul 22 09 45_94ca317e](https://github.com/user-attachments/assets/e29aedd1-ada2-4774-8ac7-73b62ac55938)
 
 
 kill - Menghentikan proses berdasarkan PID.
 
-![Gambar WhatsApp 2024-09-04 pukul 22 09 45_94ca317e](https://github.com/user-attachments/assets/e29aedd1-ada2-4774-8ac7-73b62ac55938)
+![Gambar WhatsApp 2024-09-04 pukul 22 10 56_dccc4632](https://github.com/user-attachments/assets/d727f946-9466-4e87-b949-f722d7ae09b8)
 
 cat - Menampilkan isi file.
 
-![Gambar WhatsApp 2024-09-04 pukul 22 10 56_dccc4632](https://github.com/user-attachments/assets/d727f946-9466-4e87-b949-f722d7ae09b8)
+![Gambar WhatsApp 2024-09-04 pukul 22 11 24_0e99d051](https://github.com/user-attachments/assets/edc2a60e-371c-4d80-a8e2-7a43eda3e976)
 
 apt-get install - Menginstal paket baru.
 
-![Gambar WhatsApp 2024-09-04 pukul 22 11 24_0e99d051](https://github.com/user-attachments/assets/edc2a60e-371c-4d80-a8e2-7a43eda3e976)
+![Gambar WhatsApp 2024-09-04 pukul 22 11 52_090ec062](https://github.com/user-attachments/assets/09808bb4-718e-4dde-890c-1968eb26a91e)
 
 chmod - Mengubah izin file.
 
-![Gambar WhatsApp 2024-09-04 pukul 22 11 52_090ec062](https://github.com/user-attachments/assets/09808bb4-718e-4dde-890c-1968eb26a91e)
+![Gambar WhatsApp 2024-09-04 pukul 22 12 13_d613819e](https://github.com/user-attachments/assets/8abd70d7-027c-4512-8cd6-d977e2ed8750)
 
 df - Menampilkan penggunaan disk.
 
-![Gambar WhatsApp 2024-09-04 pukul 22 12 13_d613819e](https://github.com/user-attachments/assets/8abd70d7-027c-4512-8cd6-d977e2ed8750)
+![Gambar WhatsApp 2024-09-04 pukul 22 12 35_a47975b2](https://github.com/user-attachments/assets/36184cd4-d825-4cec-892c-2150498572f3)
 
 ping - Memeriksa konektivitas jaringan.
 
-![Gambar WhatsApp 2024-09-04 pukul 22 12 35_a47975b2](https://github.com/user-attachments/assets/36184cd4-d825-4cec-892c-2150498572f3)
+![Gambar WhatsApp 2024-09-04 pukul 22 12 58_b5b2c5a4](https://github.com/user-attachments/assets/e5070cf6-8f52-46db-b4aa-9f8582ade7e0)
 
 pwd - Menampilkan direktori kerja saat ini.
 
-![Gambar WhatsApp 2024-09-04 pukul 22 12 58_b5b2c5a4](https://github.com/user-attachments/assets/e5070cf6-8f52-46db-b4aa-9f8582ade7e0)
+![Gambar WhatsApp 2024-09-04 pukul 22 13 22_978b284e](https://github.com/user-attachments/assets/3b339951-c298-456d-9f18-9850b16bfff3)
 
 du - Menampilkan ukuran direktori atau file.
 
