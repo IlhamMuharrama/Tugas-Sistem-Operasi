@@ -1,7 +1,9 @@
 cd - Berpindah direktori.
+
 ![1  cd - Berpindah direktori](https://github.com/user-attachments/assets/f023356a-ea39-4d11-bc8d-824541cd32ca)
 
 Menampilkan daftar file dan direktori.
+
 ![Gambar WhatsApp 2024-09-04 pukul 22 08 46_47df10e9](https://github.com/user-attachments/assets/20d1e658-bf75-4eeb-811f-5319cfb03475)
 
 mkdir - Membuat direktori baru.
